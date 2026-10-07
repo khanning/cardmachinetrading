@@ -13,3 +13,6 @@
 - text: TikTok
   url: https://www.tiktok.com/@cardmachinetrading
   icon: tiktok
+- text: email
+  url: mailto:support@cardmachinetrading.com
+  icon: envelope-at
