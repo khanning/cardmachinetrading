@@ -1,18 +1,24 @@
 - text: Whatnot
   url: https://www.whatnot.com/user/cardmachinetrading
   icon: whatnot-fill
+  umami_event: "whatnot-link-click"
 - text: ebay
   url: https://www.ebay.com/usr/cardmachinetrading
   icon: bag-check
+  umami_event: "ebay-link-click"
 - text: Instagram
   url: https://www.instagram.com/cardmachinetrading
   icon: instagram
+  umami_event: "instagram-link-click"
 - text: Facebook
   url: https://www.facebook.com/people/Cardmachinetrading/61595357540520/
   icon: facebook
+  umami_event: "facebook-link-click"
 - text: TikTok
   url: https://www.tiktok.com/@cardmachinetrading
   icon: tiktok
+  umami_event: "tiktok-link-click"
 - text: email
   url: mailto:support@cardmachinetrading.com
   icon: envelope-at
+  umami_event: "email-link-click"
